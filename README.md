@@ -1,3 +1,6 @@
+**Skill-Horizon**
+
+
 This repository contains the assignments done during the 30-day internship program provided by Skill-Horizon.
 ____________________________________________________________________________________________________________
 **Objective!**
