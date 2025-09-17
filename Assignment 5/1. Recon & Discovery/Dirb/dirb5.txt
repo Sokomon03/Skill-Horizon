@@ -1,0 +1,33 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb5.txt
+START_TIME: Tue Sep 16 22:01:59 2025
+URL_BASE: http://testfire.net/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testfire.net/ ----
++ http://testfire.net/admin (CODE:302|SIZE:0)
++ http://testfire.net/aux (CODE:200|SIZE:0)
++ http://testfire.net/bank (CODE:302|SIZE:0)
++ http://testfire.net/com1 (CODE:200|SIZE:0)
++ http://testfire.net/com2 (CODE:200|SIZE:0)
++ http://testfire.net/com3 (CODE:200|SIZE:0)
++ http://testfire.net/con (CODE:200|SIZE:0)
++ http://testfire.net/images (CODE:302|SIZE:0)
++ http://testfire.net/nul (CODE:200|SIZE:0)
++ http://testfire.net/pr (CODE:302|SIZE:0)
++ http://testfire.net/prn (CODE:200|SIZE:0)
++ http://testfire.net/static (CODE:302|SIZE:0)
++ http://testfire.net/util (CODE:302|SIZE:0)
+
+-----------------
+END_TIME: Tue Sep 16 22:32:35 2025
+DOWNLOADED: 4612 - FOUND: 13
